@@ -1,2 +1,3 @@
 Ensure you have installed pytube.
 If pytube not installed, copy the code on the 2nd line, remove the comment and run the code first.
+Note: Ensure you run pytube on terminal, NOT your IDE
